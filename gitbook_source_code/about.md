@@ -1,6 +1,6 @@
 # About The Author
 
-Sample message from __Melvin Ch'ng__ 
+Sample message from __Zheng Qu__ 
 
 Note: You edit me at `about.md`.
 
