@@ -14,7 +14,7 @@ ga_cv: UA-XXXXXXXX-X
 # Index page and Profile Information
 name: Zheng Qu
 tagline: Ph.D. in Computer Engineering, IoT, Reverse Engineering
-pic: myself.png # profile.png can be found at /assets/images/profile.png
+pic: myself.jpg # profile.png can be found at /assets/images/myself.jpg
 description: Full Stack Developer, IoT, Reverse Engineering
 description_tiny: 'Home: +60-4 | Studied: +1-408 | Work: +60-3'
 email: zhengqu.ece@gmail.com
